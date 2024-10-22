@@ -2,7 +2,7 @@
 
 ## Description
 
-The Top Courses App is a web application designed to provide users with access to a curated list of online courses. The app features a user-friendly interface that allows users to browse, search, and filter courses based on various criteria. This project showcases my skills in frontend development using HTML, CSS, and JavaScript.
+The Top Courses App is a web application designed to provide users with access to a curated list of online courses. The app features a user-friendly interface that allows users to browse, search, and filter courses based on various criteria. This project showcases my skills in frontend development using HTML, CSS, and JavaScript..
 
 ## Features
 
